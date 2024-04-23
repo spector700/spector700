@@ -15,8 +15,6 @@
 </div>
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=spector700&label=Profile%20Views&color=1e1e2e&style=for-the-badge"/></p>
-
 <div align="center">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=120&section=footer"/>
